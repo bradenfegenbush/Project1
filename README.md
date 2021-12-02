@@ -1,17 +1,14 @@
 # Project1
-Revature Project 1
-Title: Project 1
-Author: Braden Fegenbush
+    Revature Project 1
+    Title: Project 1
+    Author: Braden Fegenbush
 
-  TECH STACK:
+    TECH STACK:
     -SPARK 2.4.8
     -SCALA 2.11.12
     -MYSQL
     -SBT 0.1
 
-   DATABASE:
-    -Found on Kaggle.com
-    -Database consists of data about movies released in the past ~50 years (1960ish-2015).
 
     6 QUESTIONS:
     1. What is the number of movies made in 2015?
